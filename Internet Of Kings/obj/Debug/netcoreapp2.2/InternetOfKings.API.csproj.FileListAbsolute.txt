@@ -1,0 +1,14 @@
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\bin\Debug\netcoreapp2.2\InternetOfKings.API.deps.json
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\bin\Debug\netcoreapp2.2\InternetOfKings.API.runtimeconfig.json
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\bin\Debug\netcoreapp2.2\InternetOfKings.API.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\bin\Debug\netcoreapp2.2\InternetOfKings.API.dll
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\obj\Debug\netcoreapp2.2\InternetOfKings.API.csprojAssemblyReference.cache
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\obj\Debug\netcoreapp2.2\InternetOfKings.API.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\obj\Debug\netcoreapp2.2\InternetOfKings.API.RazorAssemblyInfo.cache
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\obj\Debug\netcoreapp2.2\InternetOfKings.API.RazorAssemblyInfo.cs
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\obj\Debug\netcoreapp2.2\InternetOfKings.API.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\obj\Debug\netcoreapp2.2\InternetOfKings.API.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\obj\Debug\netcoreapp2.2\InternetOfKings.API.RazorTargetAssemblyInfo.cache
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\bin\Debug\netcoreapp2.2\InternetOfKings.API.pdb
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\obj\Debug\netcoreapp2.2\InternetOfKings.API.dll
+C:\Users\mauri\source\repos\Internet Of Kings\Internet Of Kings\obj\Debug\netcoreapp2.2\InternetOfKings.API.pdb
